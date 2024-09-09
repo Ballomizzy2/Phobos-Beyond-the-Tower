@@ -13,28 +13,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2024-09-08T22:22:32.893-05:00
-  initializedAtString: 2024-09-08T22:15:00.742-05:00
-  localBranches: []
-  remoteBranches: []
+  lastUpdatedAtString: 2024-09-08T23:41:02.163-05:00
+  initializedAtString: 2024-09-08T23:41:02.045-05:00
+  localBranches:
+  - name: main
+    tracking: origin/main
+  remoteBranches:
+  - name: origin/main
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/Ballomizzy2/Phobos-Beyond-the-Tower
+    url: https://github.com/Ballomizzy2/Phobos-Beyond-the-Tower.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - main
+    values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/Ballomizzy2/Phobos-Beyond-the-Tower.git
+      trackingBranch: main
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - main
+      - HEAD
+    subKeyValues:
+    - Values:
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/Ballomizzy2/Phobos-Beyond-the-Tower.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Ballomizzy2/Phobos-Beyond-the-Tower.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/Ballomizzy2/Phobos-Beyond-the-Tower
+      url: https://github.com/Ballomizzy2/Phobos-Beyond-the-Tower.git

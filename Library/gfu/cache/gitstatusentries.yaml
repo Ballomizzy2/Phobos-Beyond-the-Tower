@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2024-09-08T23:40:11.915-05:00
+  lastUpdatedAtString: 2024-09-08T23:57:43.843-05:00
   initializedAtString: 2024-09-08T23:00:07.956-05:00
   entries:
   - path: Assembly-CSharp.csproj
@@ -22,273 +22,83 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Mobile.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile.meta
-    projectPath: Assets\Mobile.meta
+  - path: Assets\Prefabs\Entity (Phobos).prefab
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Prefabs\Entity
+      (Phobos).prefab
+    projectPath: Assets\Prefabs\Entity (Phobos).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Entity (Phobos).prefab.meta
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Prefabs\Entity
+      (Phobos).prefab.meta
+    projectPath: Assets\Prefabs\Entity (Phobos).prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Game.unity
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Scenes\Game.unity
+    projectPath: Assets\Scenes\Game.unity
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs.meta
-    projectPath: Assets\Mobile\Prefabs.meta
+    workTreeStatus: 3
+  - path: Assets\Scripts\EntityController.cs
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Scripts\EntityController.cs
+    projectPath: Assets\Scripts\EntityController.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\CanvasInputs.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\CanvasInputs.meta
-    projectPath: Assets\Mobile\Prefabs\CanvasInputs.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\EntityController.cs.meta
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Scripts\EntityController.cs.meta
+    projectPath: Assets\Scripts\EntityController.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_Joysticks.prefab
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_Joysticks.prefab
-    projectPath: Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_Joysticks.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_Joysticks.prefab.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_Joysticks.prefab.meta
-    projectPath: Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_Joysticks.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_TouchZones.prefab
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_TouchZones.prefab
-    projectPath: Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_TouchZones.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_TouchZones.prefab.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_TouchZones.prefab.meta
-    projectPath: Assets\Mobile\Prefabs\CanvasInputs\UI_Canvas_StarterAssetsInputs_TouchZones.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\EventSystem.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\EventSystem.meta
-    projectPath: Assets\Mobile\Prefabs\EventSystem.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\EventSystem\UI_EventSystem.prefab
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\EventSystem\UI_EventSystem.prefab
-    projectPath: Assets\Mobile\Prefabs\EventSystem\UI_EventSystem.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\EventSystem\UI_EventSystem.prefab.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\EventSystem\UI_EventSystem.prefab.meta
-    projectPath: Assets\Mobile\Prefabs\EventSystem\UI_EventSystem.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\VirtualInputs.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\VirtualInputs.meta
-    projectPath: Assets\Mobile\Prefabs\VirtualInputs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Button.prefab
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Button.prefab
-    projectPath: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Button.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Button.prefab.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Button.prefab.meta
-    projectPath: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Button.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Joystick.prefab
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Joystick.prefab
-    projectPath: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Joystick.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Joystick.prefab.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Joystick.prefab.meta
-    projectPath: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_Joystick.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_TouchZone.prefab
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_TouchZone.prefab
-    projectPath: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_TouchZone.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_TouchZone.prefab.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_TouchZone.prefab.meta
-    projectPath: Assets\Mobile\Prefabs\VirtualInputs\UI_Virtual_TouchZone.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts.meta
-    projectPath: Assets\Mobile\Scripts.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\CanvasInputs.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\CanvasInputs.meta
-    projectPath: Assets\Mobile\Scripts\CanvasInputs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs
-    projectPath: Assets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs.meta
-    projectPath: Assets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\Utilities.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\Utilities.meta
-    projectPath: Assets\Mobile\Scripts\Utilities.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs
-    projectPath: Assets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs.meta
-    projectPath: Assets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\VirtualInputs.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\VirtualInputs.meta
-    projectPath: Assets\Mobile\Scripts\VirtualInputs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs
-    projectPath: Assets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs.meta
-    projectPath: Assets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs
-    projectPath: Assets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs.meta
-    projectPath: Assets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs
-    projectPath: Assets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs.meta
-    projectPath: Assets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI.meta
-    projectPath: Assets\Mobile\UI.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Circle_Bevel_Base.png
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Circle_Bevel_Base.png
-    projectPath: Assets\Mobile\UI\UI_Circle_Bevel_Base.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Circle_Bevel_Base.png.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Circle_Bevel_Base.png.meta
-    projectPath: Assets\Mobile\UI\UI_Circle_Bevel_Base.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Circle_Faded.png
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Circle_Faded.png
-    projectPath: Assets\Mobile\UI\UI_Circle_Faded.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Circle_Faded.png.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Circle_Faded.png.meta
-    projectPath: Assets\Mobile\UI\UI_Circle_Faded.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Icon_Jump.png
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Icon_Jump.png
-    projectPath: Assets\Mobile\UI\UI_Icon_Jump.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Icon_Jump.png.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Icon_Jump.png.meta
-    projectPath: Assets\Mobile\UI\UI_Icon_Jump.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Icon_Look.png
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Icon_Look.png
-    projectPath: Assets\Mobile\UI\UI_Icon_Look.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Icon_Look.png.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Icon_Look.png.meta
-    projectPath: Assets\Mobile\UI\UI_Icon_Look.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Icon_Move.png
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Icon_Move.png
-    projectPath: Assets\Mobile\UI\UI_Icon_Move.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Icon_Move.png.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Icon_Move.png.meta
-    projectPath: Assets\Mobile\UI\UI_Icon_Move.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Icon_Sprint.png
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Icon_Sprint.png
-    projectPath: Assets\Mobile\UI\UI_Icon_Sprint.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Mobile\UI\UI_Icon_Sprint.png.meta
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Assets\Mobile\UI\UI_Icon_Sprint.png.meta
-    projectPath: Assets\Mobile\UI\UI_Icon_Sprint.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Library\ArtifactDB
     projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -298,9 +108,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: D:\Gamedev Backup\Game Projects\Game-Projects\PressPlay\Phobos-Beyond-the-Tower\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
